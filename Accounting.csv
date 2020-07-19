@@ -1,0 +1,11 @@
+Description,Boolean String
+Search string for targeting Big 4 accounting firms.,"(Deloitte OR PwC OR ""PricewaterhouseCoopers"" OR EY OR ""Ernst & Young"" OR ""Ernst and Young"" OR KPMG OR ""Big 4"" OR ""Big four"")"
+Search string for finding accounting and finance executives.,"CFO OR ""Chief Financial Officer"" OR CAO OR ""Chief Accounting Officer"" OR Controller OR ((VP OR EVP OR AVP OR SVP OR ""vice president"") AND (accounting OR finance OR financial OR fpa OR fp&a))"
+Broad string for finding Plant Controllers,(Plant OR Site OR Manufacturing OR Operations) AND (Controller)
+General string for finding lead Internal Audit executives on LinkedIn,"(""Chief Audit Executive"" OR CAE OR SVP OR VP OR ""Vice President"" OR Director OR Manager OR Head) (""Internal Audit"" OR ""Internal Controls"") site:linkedin.com/in"
+Spanish speaking accounting professionals nationwide ,"site:www.linkedin.com/in (cpa OR ""c.p.a."" OR accountant OR accounting) (""gmail.com"" OR ""yahoo.com"" OR ""hotmail.com"" OR ""sbcglobal.net"" OR ""earthlink.net"" OR ""msn.com"" OR ""aol.com"") ""native or bilingual proficiency"" spanish"
+Internet Search for accounting professionals ,"(""intitle:(resume OR cv OR vitae OR ""about me"")"" OR ""inurl:(resume OR cv OR vitae OR ""about me"")"") (cpa OR ""c.p.a."" OR accountant OR accounting) -samples -jobs -tips -sample -job"
+accounting professionals nationwide,ext:pdf (intitle:resume OR inurl:resume OR intitle:bio OR inurl:bio OR intitle:&#34;about me&#34; OR inurl:aboutme) (cpa OR &#34;c.p.a.&#34; OR &#34;certified public accountant&#34; OR accounting) (&#34;gmail.com&#34; OR &#34;yahoo.com&#34; OR &#34;aol.com&#34; OR &#34;hotmail.com&#34; OR &#34;earthlink.com&#34;) -sample -example
+More descriptive Plant Controller boolean search to exclude recruiters and searches that will also find engineers that work with controllers on equipment,(&#34;Plant Controller&#34; OR &#34;Site Controller&#34; OR Manufacturing OR Operations) AND (Controller)AND AccountingNOT (recruiter OR recruiting OR staffing)
+Accounting certifications,(aca OR acca OR cpa OR cima OR idw OR icaew)
+"accountant for taxation position with 3 years of experience or more, CPA eligible or current, and experience within business, sales, non profit or for profit experience",accounting AND (CPA OR taxation) NOT (contoller OR officer OR supervisor OR manager)
