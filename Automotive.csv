@@ -1,0 +1,32 @@
+all account managers in the Monroe mi area with a degree and engineer,"""account manager"" bachelors (engineer OR engineering) ""Monroe, mi"""
+Auto tech,Automotive AND Technician
+String for automotive professionals in the collision industry,"site:slideshare.net (estimator OR appraiser OR technician) (collision OR autobody OR ""auto body"" OR bodyshop OR ""body shop"") (""gmail.com""|""yahoo.com""|""aol.com""|""hotmail.com""|""sbcglobal.net""|""earthlink.net"")
+"
+automotive professionals in the collision industry seeking employment,"site:linkedin.com/in (""seeking new"" OR ""looking for new"" OR unemployed OR ""currently seeking"" OR ""currently looking"") (""auto body"" OR autobody OR collision OR bodyshop OR ""body shop"") 
+"
+industrial engineer in detroit mi area,"(intitle:resume OR inurl:resume) (""industrial engineer"" OR ""LAUNCH ENGINEER"") (AUTOCAD OR PFMEA) detroit, mi"
+Auto Body Professionals in the Collision Industry via LinkedIn,"site:linkedin.com/in/ (autobody OR collision OR ""auto body"") (tech OR technition OR technician OR estimator) -intitle:â€profilesâ€ -inurl:â€dir/ â€
+"
+Powertrain Assembly ,"(Differential OR Axle OR ""Cylinder Head"" OR Transmission OR ""transfer case"" OR Drivetrain OR PWT OR Powertrain OR Engine OR Driveshaft OR ""Drive Shaft"" ) AND Assembl* AND Robot*"
+Base Engine Design Engineer,"(""engine block"" OR â€œbase engineâ€ OR Piston OR Crankshaft OR Camshaft OR ""cylinder head"") AND Design"
+Engine Development Engineer,((Engine NEAR Test*) OR (Dyno NEAR Test*) OR (Dynamometer NEAR Test*) OR (engine NEAR Calibrat*) OR (dyno NEAR calibrat*)) AND (Calibrat* OR Combustion) 
+EDS/Electrical Design,(electrical OR electronics) AND â€œcatia V5â€ AND (packaging or package OR DMU) AND (wiring OR harness OR EDS)
+EDS/Electrical Design,(electrical OR wire OR wiring OR EDS OR &#34;electrical distribution system&#34;) AND (harness OR EDS) AND schematic AND (validate OR validation OR DVP OR DFMEA) AND design AND (concept OR build) AND specification AND (supplier OR APQP OR PPAP) AND system
+Project Engineer - interiors,site:linkedin.com/in/ -inurl:dir -jobs -aerospace (&#34;project engineer&#34; OR &#34;project * engineer&#34;) AND (interiors OR interior OR facia OR &#34;interior trim&#34; OR &#34;instrument panel&#34; OR &#34;centre console&#34; OR &#34;center console&#34; OR cockpit OR seat OR seating) AND fmea AND (design OR development)
+Infotainment Test Engineer,(infotainment OR embedded OR ADAS OR electrical) AND test AND validation AND system AND (canalyser OR canalyzer OR CAPL) and Engineer
+ADAS Test/Development Engineer,(adas OR electrical OR electronic OR infotainment OR media OR navigation OR telephone) AND (canalyser OR canalyzer) AND (test OR development OR validation) AND (UDS OR &#34;unified diagnostic service&#34; OR ethernet OR CAPL) AND (MOST OR CAN OR LIN)
+Buscar Mercedes pagoda 280,&#34;mercedes&#34; AND &#34;pagoda&#34; AND &#34;280&#34; AND &#34;sl&#34;
+"To perform this job successfully, an individual must have the necessary knowledge on Manufacturing process and quality topics.
+The requirements listed below are representative of the knowledge, skill, and/or ability required:
+Bachelor&#39;s Engineering in Mechanical / Electrical / Electronics with 6 to 8 years of experience in Manufacturing Process study and documentation of electro-mechanical products for Medical, Aerospace or Automotive Industry
+Experience in Component Inspection and documentations, standard Work instructions for commodities such as printed circuit board assemblies, power supplies, cables, custom battery packs, mechanical parts (plastics, machined, sheet metal), cables, etc..
+Experience in SAP and Data Management.
+Experience in regulated industry, Medical preferred
+Knowledge of FDA standards such as 21 CFR Part 820, 21 CFR Part 11, ISO 13485, etc.,
+Good teamwork skills, can work independently, not afraid to speak up, and works well with others
+
+Primary Skills:
+- BS in Electrical/Industrial/Mechanical Engineering
+- 8 years working experience in Medical / Aerospace / Automotive Manufacturing quality process
+- Experience in Inspection of electro mechanical commodities",(Manufacture AND manufacturing) AND (Device OR Devices) AND Medical AND (Assembly Line)
+Quality engineering shortcuts,(ppap OR 8D OR apqp OR sqm OR sqa OR sqe OR qe OR qm OR qa OR cqm OR cqe OR spe)
