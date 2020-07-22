@@ -1,0 +1,28 @@
+Physicians,"site:linkedin.com/in | site:linkedin.com/pub -dir (physician | emergency | ""family medicine"" | ""critical care""| medicine) (doctor OR MD OR DO OR PA)"
+nursing (LPN) program accreditation list,"filetype:docx (intitle:graduate OR inurl:graduate OR intitle:member OR inurl:member OR intitle:registrants OR inurl:registrants OR intitle:profiles OR inurl:profiles) (""licensed practical nurse"" OR LPN) ""American Nurses Association"" -jobs -job "
+String for doctors specializing in emergency medicine ,site:doximity.com AND inurl:pub â€œemergency medicineâ€
+Doctors specialized in Oral & Maxillofacial surgery,"site:doximity.com AND inurl:pub (""oral & maxillofacial"" OR maxillofacial OR jaw OR face OR omses OR facial) (md OR doctor OR ""m.d."" OR physician)"
+LPN,"(LPN OR ""L.P.N."" OR ""Licensed Practical Nurse"")"
+Find obstetrics in Luxembourg,inurl:(dr AND lu) AND obstetric*
+Searching for employed LPNs off of college sites,"site:edu (""licensed practical nurse"" OR lpn) alumni (""she is"" OR ""he is"") "
+RNs what work for Group Health,"""@ghc.org""(""registered nurse"" OR rn) -job -jobs"
+Pharmacist search site Doximity specific location,"site:doximity.com (pharmd OR pharmacist OR â€œPharmacy Managerâ€ OR â€œRPHâ€) AND (Augusta, GA) -""medical center"""
+"Nurses (directories, attendee lists, and etc)",(intitle:&#34;first_name&#34; OR intitle:&#34;last_name&#34; OR intitle:first OR intitle:last OR intitle:&#34;first name&#34; OR intitle:&#34;last name&#34;) AND (nurse OR nurses OR rn OR &#34;r.n.&#34; OR &#34;registered nurse&#34; OR lpn) AND (registrant OR attendee OR attendees OR directory) AND (&#34;gmail.com&#34; OR &#34;yahoo.com&#34; OR &#34;hotmail.com&#34; OR &#34;aol.com&#34; OR &#34;sbcglobal.com&#34; OR &#34;earthlink.com&#34;) -church
+"ndustry: Healthcare / Health Services - Nursing / LPNs / LVNs
+Job Category: Medical / Health - Nurse
+JOB SUMMARY 
+
+Provides professional nursing direct patient care in compliance with professional practice and unit standards. Promotes a collaborative, interdisciplinary approach towards patients, families and all members of the care delivery team. 
+
+
+
+ESSENTIAL FUNCTIONS 
+1.Assess, plan, implement and evaluate patient care needs. 
+2. Documents patient care in the healthcare record according to established standards. 
+3. Directs and delegates care to other team members in accordance with their education, credentials, and demonstrated competence. 
+4.Ensures own professional effectiveness through education and professional development 
+5. Participates in the development of and maintains established hospital policies, procedures and objectives, quality improvement, safety, environmental and infection prevention program. 
+6.Performs other duties as assigned.","filetype:(pdf OR doc OR docx OR rtf) (resume OR cv) -job -sample ( &#34;Alaska,Ketchikan area&#34;) (â€œRegistered Nurseâ€ OR â€œRNâ€ OR â€œOperating roomâ€ OR â€œRN â€“ operating roomâ€ OR â€œSurgeryâ€) AND (â€œOperating roomâ€ OR â€œHospital OR â€œHealthcareâ€ OR â€œHealthâ€ OR â€œSurgeryâ€)"
+RN&#39;s Anywhere,(intitle:resume OR intitle:cv) (RN OR Registered Nurse) -job -jobs -sample -examples
+String for Chief Nursing Officers in  the Med/Surg-Acute Care-Critical Care - Preoperative and ER,doximity.com AND inurl:pub (&#34;Med/Surg&#34; OR Surgical OR ER OR Emergency OR Acute Care OR Preoperative) (RN OR CNO OR &#34;CNO&#34; OR Chief Nursing Officer)
+NURSE,(&#34;nurse&#34; OR &#34;nursing&#34; OR &#34;rgn&#34; OR &#34;rn&#34; OR &#34;registered nurse&#34; OR &#34;rmn&#34; OR &#34;rmhn&#34; OR &#34;pin&#34; OR &#34;clinical manager&#34; OR &#34;nmc&#34;) NOT (&#34;nursery&#34;) NOT (&#34;manager&#34;) NOT (&#34;assistant&#34;) NOT (&#34;carer&#34;)
