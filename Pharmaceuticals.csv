@@ -1,0 +1,3 @@
+Description,String
+Looking for resumes for professionals with Veeva Vault experience CRM module,(inurl:resume OR cv OR vitae OR portfolio OR contact) OR (intitle:resume OR cv OR vitae OR portfolio OR contact) AND Veeva AND CRM AND (filetype:pdf OR filetype:docx OR filetype:doc)
+businees analyst,&#34;business analysis&#34; AND sql AND obiee
