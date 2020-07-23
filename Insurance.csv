@@ -1,0 +1,4 @@
+Description,String
+Insurance Underwriting Manager with Farm or Agribusiness Specialty,site:www.linkedin.com/in/ OR site:www.linkedin.com/pub/ -intitle:â€profilesâ€ -inurl:â€dir/ â€œ Insurance Underwriting AND (Manager OR Supervisor OR Director) AND Commercial AND (Farm OR Agribusiness)
+Reinsurance Underwriter,(reinsurance OR reinsurer OR &#34;re insurance&#34; OR &#34;re-insurance&#34;) AND (renewals OR renew OR renewed OR renewal OR submission OR placement) AND (policy OR policies OR binder OR binders ) AND (Underwriter OR underwriting)
+Best used for finding commercial insurance underwriters,(&#39;&#39;multiline property casualty&#39;&#39; OR &#39;&#39;property casualty&#39;&#39; OR &#39;&#39;commercial lines&#39;&#39; OR &#39;&#39;workers compensation&#39;&#39; OR &#39;&#39;commercial auto&#39;&#39; OR &#39;&#39;general liability&#39;&#39; OR &#39;&#39;multi line&#39;&#39;) (underwriter) (-monoline -&#39;&#39;life insurance&#39;&#39;)
