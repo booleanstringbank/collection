@@ -1,0 +1,4 @@
+Description,String
+Architect,(â€œSolutions architectâ€ OR â€œChief Architectâ€ OR â€œChief Engineerâ€ OR â€œData Architectâ€ OR â€œPrincipal Architectâ€ OR â€œPrinciple Engineerâ€ OR â€œinformation Architectâ€) AND (Integration OR Design* OR Solution* OR Configuration) AND PMP AND ITIL AND (Cloud OR Mail OR Servicedesk OR &#34;Service desk&#34; OR Helpdesk OR &#34;Help desk&#34; OR Mobility) AND (DODAF OR AESM OR Framework)
+Information Assurance,(RMF OR â€œRisk Managementâ€) AND (â€œInformation Assuranceâ€ OR â€œInformation Securityâ€ OR â€œC&Aâ€ OR â€œA&Aâ€ OR â€œC & Aâ€ OR â€œA & Aâ€ OR Accreditation) AND (Security OR CoOP* OR SCA OR NIST OR SSP* OR â€œsecurity Control*â€ OR Assessment) AND (CISSP OR CISM OR CISA OR CAP OR ISACA OR ISC)
+sharepoint developer,&#34;CI Polygraph&#34; AND &#34;Sharepoint Developer&#34; AND &#34;Infopath&#34;
