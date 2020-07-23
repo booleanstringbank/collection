@@ -1,0 +1,5 @@
+Description,String
+Personal Injury Defense Attorney,(defending OR defense) AND (auto OR automobile OR trucking OR transportation OR transport OR truck OR vehicle OR &#34;motor carrier&#34; ) AND (negligence OR &#34;wrongful death&#34; OR &#34;accident reconstruction&#34; OR &#34;medical records&#34;) AND (&#34;Personal Injury&#34; OR &#34;premises liability&#34; OR &#34;product liability&#34; OR &#34;Insurance Defense&#34;)
+Simple string for finding business lawyers,(intitle:resume OR intitle:cv) â€œbusiness lawyerâ€ -job -jobs -sample -examples
+Find a Corporate counsel,(intitle:resume OR intitle:cv) (â€œcorporate counselâ€ OR â€œlegal counselâ€) -job -jobs -sample -examples
+Sample string to search for resumes of Business Lawyers in various file formats,(intitle:resume OR intitle:cv) (filetype:pdf OR filetype:doc OR filetype:txt) (â€œbusiness lawyerâ€ OR â€œbusiness attorneyâ€) -job -jobs -sample -templates
