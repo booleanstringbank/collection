@@ -1,0 +1,2 @@
+Description,String
+Anglo-Dutch string for creative marketeer in design eenvironment,site:nl.linkedin.com ((creatie OR creatief OR innovatie OR productontwikkeling) OR (creation OR creative OR innovation OR &#34;product development&#34;)) AND marketing and (director OR VP OR CMO OR &#34;chief Marketing&#34;) AND (design OR beautiful OR ontwerp OR aestethic OR esthetisch) (inurl:com/pub OR inurl:com/in) -inurl:pub/dir
