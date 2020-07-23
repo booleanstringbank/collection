@@ -1,0 +1,2 @@
+Description,String
+Node.Js developer in Paris,"(""node.js"" OR ""nodejs"" OR ""node"") AND (developer OR engineer OR developpeur) AND ""Ile-de-France"" OR 75000..75999 OR paris AND inurl:cv OR inurl:bio* OR inurl:resume Not (inurl:offre* OR inurl:job ORÂ inurl:emploi inurl:freelance OR inurl:enligne OR inurl:jobprod) NOT freelance"
