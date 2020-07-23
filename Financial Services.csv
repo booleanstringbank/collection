@@ -1,0 +1,42 @@
+Description,String
+This is a broad string for finding financial planning and analysis people in New York,"(""Financial Planning and Analysis"" OR ""FP&A"") AND (""New York"" OR NYC)"
+Find a consumer credit risk professional,"(""Chief Credit Risk Officer"" OR CCRO OR ""Vice President"" OR SVP OR VP OR Director OR ""Senior Manager"" OR Head) AND (""Risk Management"" OR ""Credit Risk"") AND (""Consumer Finance"" OR ""Consumer Lending"")"
+Business Analyst with call center experience plus agile/scrum,(&#34;Business Analyst&#34; OR &#34;Business Analysis&#34; OR &#34;Business Analytics&#34;) AND (&#34;Call Center&#34; OR &#34;Call-Center&#34;) AND (Cisco OR IVR OR Agile OR Scrum)
+Solution Architect,unix AND linux AND sql AND RDbms AND Financial AND &#34;solution architect&#34;
+"Title: NoSQL Engineer
+Location: Pennington, NJ
+Duration: 12+ Months
+
+Top 3 Technical Skills: 
+3+ years of NoSQL Big Data product and information architecture, including Cassandra, or MemSQL 
+5+ years in infrastructure design across a broad range of technologies (middleware, database, web, load balancers, firewalls, etc), most importantly Linux 
+5+ yearsâ€™ experience providing on-call production support of Big Data / NoSQL systems, operating systems such as Linux, etc. 
+
+Required Skills: 
+5+ years in infrastructure design across a broad range of technologies (middleware, database, web, load balancers, firewalls, etc) 
+5+ years in Linux - Must be capable of installing Linux, understanding RAID options, diagnosing network, I/O, memory, and CPU bottlenecks 
+7+ years in large scale systems design and engineering (supporting 10k+ users and 1MM+ daily transactions with extremely high availability/resiliency) 
+2+ years in Solr/Lucene 
+2+ years in Hadoop ecosystem including Map-Reduce, Hive, and Pig 
+2+ years in NoSQL Big Data product and information architecture including products such as Cassandra and Mongo (or other similar key-value stores) 
+3+ years in at least one of Python/Bash/Perl/Ruby scripting environments 
+3+ years in Java development and related frameworks (Spring, Struts, SOAP, XML, REST, etc) 
+3+ years in Data Modeling & Data Migration/ETL (Extract-Transform-Load) functions for large data stores (Relational and/or Unstructured data) 
+1+ years in BI tools and reporting software (Pentaho, Cognos, etc) 
+Deep understanding of Relational vs NoSQL distributed database architectures (for example - explain fundamental differences between Oracle RAC and MongoDB) 
+Ability to explain CAP theorem and its applicability to different problems 
+Previous role that included operational/production support of a critical environment (customer impact if down) 
+Contributors to open-source projects will be given high consideration (show us your work in GitHub)",NoSQL AND (Cassandra w/20 MemSQL) AND NOT (&#34;Database Administrator&#34; OR &#34;Hadoop Administrator&#34;)
+Controller for Tier 1 automotive supplier,(CAO OR &#34;Chief Accounting Officer&#34; OR Controller) AND (account* OR  finance OR financial OR &#34;fp&a&#34; OR fpa) AND &#34;cost analysis&#34; AND (&#34;plastic injection molding&#34; OR &#34;chrome plating&#34; OR &#34;tier 1&#34; OR &#34;tier one&#34;)
+"years ERP applications experience is preferred
+â€¢	Experience implementing and upgrading Oracle Financials and Cloud Financials.
+â€¢	Minimum of 3-4 full life-cycle implementations and/or upgrade projects
+â€¢	Ability to lead activities such as requirements analysis, business process design/re-engineering, gap/fit analysis, reporting analysis, application configuration, CRP testing, user training and production support
+â€¢	Ability to produce functional requirements for Reports, Interfaces, Conversions and Enhancements
+â€¢	Knowledge of Oracle&#39;s AIM methodology or similar implementation methodologies
+â€¢	Very strong verbal, presentation, and interpersonal skills are required
+â€¢	Ability to effectively communicate with client users and management, and deliver presentations
+â€¢	Solid client management and consulting skills
+â€¢	Knowledge of Oracle SQL*Plus, Discoverer, XML Publisher, Vertex and/or 170 Systems is a plus
+â€¢	CPA or Accounting/Finance background is a plus",(&#34;Oracle EBS&#34; OR &#34;Oracle E-Business Suite&#34; OR &#34;oracle ebusiness&#34; OR &#34;oracle e-business&#34; OR &#34;oracle financial&#34;) AND (&#34;enterprise resource planning&#34; OR ERP OR &#34;customer relationship management&#34; OR CRM OR &#34;supply-chain management&#34; OR SCM)
+Python,(programmer OR developer OR engineer) AND python AND (mysql OR â€œmy sqlâ€ OR â€œmy-sqlâ€ OR postgresql) AND (django OR flask OR pyramid OR bottle) AND (virtualenv OR chef OR puppet OR sentry OR raven OR implement OR deploy OR design)
