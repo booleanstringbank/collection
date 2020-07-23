@@ -1,0 +1,4 @@
+Description,String
+Human Resource Professionals with specialization in Unions,"(intitle:resume OR inurl:resume OR intitle:cv OR intitle:vitae OR inurl:cv OR inurl:vitae) (""gmail.com"" OR ""yahoo.com"" OR ""earthlink.com"" OR ""aol.com"") (""human resources"" OR hr) (""employee relations"" OR union OR unions OR ""bargaining unit"") -sample"
+Health & Benefits Consultant with Client service & plan design experience,"benefits AND project AND (""benefit calculation"" OR ""plan design"" OR ""plan administration"" OR ""benefits administration"" OR ""Benefits Design"")"
+HR,(&#34;hr&#34; OR &#34;human resources&#34; OR &#34;personel&#34; OR &#34;personnel&#34; OR &#34;hrpm&#34; OR &#34;hcm&#34; OR &#34;hrms&#34; OR &#34;cipd&#34; OR &#34;hrcm&#34; OR &#34;shrm&#34; OR &#34;human&#34; OR &#34;talent&#34; OR &#34;hrm&#34; OR &#34;hrbp&#34; OR &#34;employee relations&#34; OR &#34;people&#34;)
