@@ -1,0 +1,8 @@
+Description,String
+marketing and branding professionals around product or toy design no location specified,(intitle:resume OR intitle:&#34;about me&#34; OR inurl:aboutme) AND (marketing OR branding) (product OR toy) AND design -job -jobs -sample -templates
+PPC Manager,(&#34;ppc *&#34; OR &#34;* ads *&#34; OR &#34;campaign *&#34; OR &#34;* paid *&#34; OR &#34;online marketing *&#34; OR &#34;digital marketing *&#34; OR &#34;programmatic marketing *&#34; OR &#34;programmatic advertising *&#34;) (roi OR ltv OR cac)
+Alliance Head,"(&#34;alliance&#34; OR &#34;alliances&#34; OR &#34;Partnership&#34; OR &#34;Partner&#34; or &#34;Partnerships&#34;) AND (&#34;Business&#34; OR &#34;Marketing&#34;) 
+
+AND 
+
+(&#34;Sales&#34; OR &#34;Business Development&#34;) AND (&#34;solutioning&#34; or &#34;Solution selling&#34; OR &#34;consultative selling&#34;) AND (&#34;Government&#34; OR &#34;PSU&#34; OR &#34;MCD&#34;)"
