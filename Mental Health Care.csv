@@ -1,0 +1,5 @@
+Description,String
+psychiatrist in a certain area code,"(intitle:resume OR intitle:cv OR intitle:vitae OR inurl:profile OR inurl:""aboutme"") ""psychiatrist"" (Tacoma OR Olympia OR 253) -sample"
+testing to see where psychiatrists hang-out online,"link:acpsych.org (wa OR washington) ""mental health"" psychiatrists"
+"finding leads off of mental health websites, publications, etc. ","(links OR resources OR list)""mental health"""
+"psychiatrist for Tacoma, WA","(intitle:resume OR intitle:cv OR intitle:vitae OR inurl:profile OR inurl:""about me"") (psychiatrist OR psychiatry) ""mental health"" (253 OR ""tacoma, wa"") -sample"
