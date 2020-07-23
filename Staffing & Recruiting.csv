@@ -1,0 +1,5 @@
+Description,String
+"This string is for Microstrategy Developer 
+Can be utilize in job boards like Dice and Monster","(microstrateg* OR ""microstrategy developer"" OR ""microstrategy engineer"") OR (""BI reports"" OR ""dashboards"" OR cubes) AND (""SQL Server"") AND (""command Manager"" OR ""Object Manager"" OR ""System Manager"" OR ""Integrity Manager"" OR ""Enterprise Manager"" OR ""I-server"" OR ""Web Server"" OR ""visual Insight"")"
+Talent Acquisition Professionals in the Northwest ,"site:angel.co (recruiter OR recruiting OR ""talent acquisition"" OR sourcer OR headhunter OR ""headhunter"") (""i am"" OR he OR she) (pdx OR ""portland, or"" OR oregon OR ""vancouver, washington"") -job"
+Workday With HCM,(WORKDAY OR &#34;WORK DAY&#34; OR WORK-DAY OR WORK_DAY ) AND(&#34;HR &#34; OR HRIS OR HRMS OR HCM OR COMPENSATION )
